@@ -3,8 +3,6 @@ import '../widgets/list_card.dart';
 import '../widgets/dialog_box.dart';
 
 class HomePage extends StatefulWidget {
-  const HomePage({Key? key}) : super(key: key);
-
   @override
   _HomePageState createState() => _HomePageState();
 }
